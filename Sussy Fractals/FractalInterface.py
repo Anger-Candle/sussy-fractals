@@ -1,4 +1,3 @@
-#test
+#for the user to input the desired number of iterations for their fractal
 
-if __name__ == "__main__":
-    print('test')
+print("guh")
