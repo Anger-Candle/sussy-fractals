@@ -1,1 +1,1 @@
-# sussy-fractals
+# sussy fractals
